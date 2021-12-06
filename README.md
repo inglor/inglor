@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=inglor&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true">
 
-I'm a Software Engineer interesting in OSS projects.
+I'm a Software Engineer interested in OSS projects.
 
 ### 📦 Packaging
 
