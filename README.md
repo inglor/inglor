@@ -1,13 +1,17 @@
-## Hi there 👋
+## 👋 Hi there 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=inglor&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true">
 
 I'm a Software Engineer interested in OSS projects.
 
+### 🌱 Learning
+I’m currently learning `rust` 🦀
+
 ### 📦 Packaging
 
-I package software in AUR for Arch Linux:
-- [Arch Linux AUR](https://aur.archlinux.org/packages/?K=artafinde&SeB=m)
+I package software for Arch Linux:
+- [Official repos](https://archlinux.org/packages/?sort=&q=&maintainer=artafinde&flagged=)
+- [AUR](https://aur.archlinux.org/packages/?K=artafinde&SeB=m)
 
 ### 📫 Contacting
 
